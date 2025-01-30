@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portoflio-react/static/css/main.fa714b81.css",
+    "main.js": "/portoflio-react/static/js/main.81318086.js",
+    "static/js/488.5891cfd9.chunk.js": "/portoflio-react/static/js/488.5891cfd9.chunk.js",
+    "static/media/pexels-rodnae-productions-7092336.jpg": "/portoflio-react/static/media/pexels-rodnae-productions-7092336.e54618f502a911510254.jpg",
+    "static/media/pexels-vanessa-loring-7869442.jpg": "/portoflio-react/static/media/pexels-vanessa-loring-7869442.0f85c022a26a29213b2e.jpg",
+    "static/media/tr.jpg": "/portoflio-react/static/media/tr.2a107c15f512524e7806.jpg",
+    "static/media/pexels-andrea-piacquadio-3768136.jpg": "/portoflio-react/static/media/pexels-andrea-piacquadio-3768136.827adee084688e314b94.jpg",
+    "static/media/pexels-pixabay-38544.jpg": "/portoflio-react/static/media/pexels-pixabay-38544.24b6cce04fe821566199.jpg",
+    "static/media/Programming-amico.png": "/portoflio-react/static/media/Programming-amico.9b40da2fa9f591e3ae51.png",
+    "static/media/Calculator-amico.png": "/portoflio-react/static/media/Calculator-amico.b208a4cd7f5d1d604413.png",
+    "static/media/Customer Survey-bro.png": "/portoflio-react/static/media/Customer Survey-bro.0862053d6b369b04245b.png",
+    "static/media/Development-pana.png": "/portoflio-react/static/media/Development-pana.56d82353a8d2f789bb8e.png",
+    "static/media/whatsapp.png": "/portoflio-react/static/media/whatsapp.29acd5a481b15ecc2762.png",
+    "static/media/omar cv.pdf": "/portoflio-react/static/media/omar cv.171e3101a89f2fd04fed.pdf",
+    "static/media/download (4).png": "/portoflio-react/static/media/download (4).1c39c1e2018b10e19138.png",
+    "static/media/hamburger.png": "/portoflio-react/static/media/hamburger.fa56f8afd6bfffdd2432.png",
+    "static/media/downloadbubble.png": "/portoflio-react/static/media/downloadbubble.3127c0d3c75961baa4ad.png",
+    "static/media/pineapple.jpg": "/portoflio-react/static/media/pineapple.79a7690198638283427b.jpg",
+    "static/media/university.png": "/portoflio-react/static/media/university.d92dd268f5e71a62ae63.png",
+    "static/media/date-of-birth.png": "/portoflio-react/static/media/date-of-birth.1d47094b2cf697bbaf42.png",
+    "static/media/wikipedia.png": "/portoflio-react/static/media/wikipedia.3d4ae17cf4359f39eb06.png",
+    "static/media/logo.svg": "/portoflio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portoflio-react/index.html",
+    "main.fa714b81.css.map": "/portoflio-react/static/css/main.fa714b81.css.map",
+    "main.81318086.js.map": "/portoflio-react/static/js/main.81318086.js.map",
+    "488.5891cfd9.chunk.js.map": "/portoflio-react/static/js/488.5891cfd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa714b81.css",
+    "static/js/main.81318086.js"
+  ]
+}
