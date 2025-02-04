@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from '../Button'
 import UseAnimationFrame from './UseAnimationFrame'
-import pdf from "./omar cv.pdf"
+import pdf from "./cv2025.pdf"
 const Header = () => {
   return (
     <div className='h-screen w-full bg-gradient-to-b from-blue-500 to-purple-600 '>

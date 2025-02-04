@@ -20,7 +20,7 @@ function NavBar() {
               {/* logo */}
               <div>
                 <a
-                  href="/"
+                  href="#"
                   className="flex gap-1 font-bold text-gray-700 items-center "
                 >
                   <PaperAirplaneIcon className="h-6 w-6 text-primary" />

@@ -19,20 +19,27 @@ import ph17 from "./imgs/whatsapp.png"
 import ph19 from "./imgs/downloadbubble.png"
 
 import ph18 from "./imgs/wikipedia.png"
+import ph22 from "./imgs/Screenshot (4).png"
 
 export const ArrayProject = [
-    {
-  
-      api:"",
-      select:"react",
-      photo:ph6,title:'facebook',
-      info:'facebook clone',link:'https://omaralihussien55.github.io/react-facebook-clone/',
-    },
+  {  
+    api:"",
+    select:"react-redux",
+    photo:ph22,title:'dashboard',
+    info:'simple dashborad  with react',link:'https://omaralihussien55.github.io/dashboard-react/',
+  },
     {  
         api:"",
         select:"react-redux",
         photo:ph9,title:'old prtofolio',
         info:'my old prtofolio with html & css & js',link:'https://omaralihussien55.github.io/my-website/',
+      },
+      {
+  
+        api:"",
+        select:"react",
+        photo:ph6,title:'facebook',
+        info:'facebook clone',link:'https://omaralihussien55.github.io/react-facebook-clone/',
       },
   
     {
@@ -79,24 +86,24 @@ export const ArrayProject = [
     photo:ph1,title:'Calculator',
     info:'Adjust your calculations with ease',link:'https://omaralihussien55.github.io/calculator/',
   },
-  {
-    api:"",
-  select:"react",
-  photo:ph13,title:'Freee',
-  info:'free templates ',link:'https://omaralihussien55.github.io/react-freeez/',
-  },
+  // {
+  //   api:"",
+  // select:"react",
+  // photo:ph13,title:'Freee',
+  // info:'free templates ',link:'https://omaralihussien55.github.io/react-freeez/',
+  // },
   {
     api:"",
     select:"",
     photo:ph2,title:'Survey',
     info:'Say your opinion and win prizes',link:'https://omaralihussien55.github.io/surveys/',
   },
-  {
-    api:"",
-    select:"",
-    photo:ph7,title:'Healthy Food',
-    info:'Say your opinion and win prizes',link:'https://omaralihussien55.github.io/healthy-food/',
-  },
+  // {
+  //   api:"",
+  //   select:"",
+  //   photo:ph7,title:'Healthy Food',
+  //   info:'Say your opinion and win prizes',link:'https://omaralihussien55.github.io/healthy-food/',
+  // },
   {
     api:"",
     select:"",
@@ -127,22 +134,22 @@ export const ArrayProject = [
     photo:ph17,title:'Whatsapp Clone',
     info:'Simulation for WhatsApp',link:'https://omaralihussien55.github.io/whatsapp/',
   },
-  // 
   
   
-  {
-    api:"",
-    select:"react",
-    photo:ph12,title:'Various projects',
-    info:'Various projects such as a photo gallery clock, etc',link:'https://omaralihussien55.github.io/templet-react/',
-  },
   
-  {
-    api:"",
-    select:"react",
-    photo:ph10,title:'templet one',
-    info:'streamlined design',link:'https://omaralihussien55.github.io/templet2-react/',
-  },
+  // {
+  //   api:"",
+  //   select:"react",
+  //   photo:ph12,title:'Various projects',
+  //   info:'Various projects such as a photo gallery clock, etc',link:'https://omaralihussien55.github.io/templet-react/',
+  // },
+  
+  // {
+  //   api:"",
+  //   select:"react",
+  //   photo:ph10,title:'templet one',
+  //   info:'streamlined design',link:'https://omaralihussien55.github.io/templet2-react/',
+  // },
   
   
   ]
